@@ -122,3 +122,16 @@ body {
 .my-float{
     margin-top:16px;
 }
+
+
+/*----------------------CONTACTO.HTML--------------------------*/
+.formulario_container {
+    position: relative;
+}
+.formulario {
+    position: absolute;
+    width: 100%;
+    z-index: -1;
+    top: 0px;
+    left: 0px;
+}
